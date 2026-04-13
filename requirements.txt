@@ -1,0 +1,54 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# Groww Multilingual AI Voice Agent — Python Dependencies
+# All open-source, no paid API keys required.
+# ─────────────────────────────────────────────────────────────────────────────
+
+# Web Framework & Real-Time
+fastapi==0.111.0
+uvicorn[standard]==0.30.0
+websockets==12.0
+python-multipart==0.0.9
+httpx==0.27.0
+
+# Speech-to-Text (Multilingual Whisper)
+faster-whisper==1.0.1
+
+# Text-to-Speech (Coqui XTTS-v2)
+TTS==0.22.0
+
+# LLM + Quantization (Mistral-7B on GPU)
+transformers==4.41.2
+bitsandbytes==0.43.1
+accelerate==0.30.0
+torch>=2.1.0          # Install separately with CUDA build for GPU
+
+# Embeddings & Intent Classification
+sentence-transformers==3.0.1
+scikit-learn==1.5.0
+numpy==1.26.4
+
+# Vector Database (RAG)
+faiss-cpu==1.8.0
+
+# LangChain Orchestration
+langchain==0.2.5
+langchain-community==0.2.5
+langchain-core==0.2.10
+
+# NLP Sentiment Analysis
+vaderSentiment==3.3.2
+
+# Database (SQLite via SQLAlchemy)
+sqlalchemy==2.0.30
+
+# Dashboard
+streamlit==1.35.0
+plotly==5.22.0
+pandas==2.2.2
+
+# Tunneling (Colab → public URL)
+pyngrok==7.1.6
+
+# Utilities
+python-dotenv==1.0.1
+pydantic==2.7.3

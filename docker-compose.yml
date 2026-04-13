@@ -1,0 +1,37 @@
+version: "3.9"
+
+services:
+  voice_agent:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: groww_voice_agent
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data:/app/data # Shared SQLite DB
+    environment:
+      - PYTHONUNBUFFERED=1
+    restart: unless-stopped
+    healthcheck:
+      test: [ "CMD", "python", "-c", "import httpx; httpx.get('http://localhost:8000/health')" ]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+
+  dashboard:
+    build:
+      context: .
+      dockerfile: dashboard/Dockerfile
+    container_name: groww_dashboard
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./data:/app/data # Same SQLite DB
+    depends_on:
+      voice_agent:
+        condition: service_healthy
+    restart: unless-stopped
+
+volumes:
+  data:

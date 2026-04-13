@@ -1,0 +1,124 @@
+{
+  "intents": [
+    {
+      "label": "order_status",
+      "examples": [
+        "Where is my order?",
+        "Can you tell me the status of my order?",
+        "I want to track my package",
+        "When will my order be delivered?",
+        "My order hasn't arrived yet",
+        "What is the expected delivery date?",
+        "Is my order shipped?",
+        "I placed an order two days ago, where is it?",
+        "Give me an update on my shipment",
+        "How long will it take for my order to reach me?",
+        "My order is showing as processing for too long",
+        "Can I get the tracking number?",
+        "Order status check karna hai",
+        "Mera order kab aayega?",
+        "Order track karo mera"
+      ]
+    },
+    {
+      "label": "refund_request",
+      "examples": [
+        "I want a refund",
+        "Please refund my money",
+        "I need my payment back",
+        "How do I get a refund for my order?",
+        "I returned the product, where is my refund?",
+        "Refund process karna hai",
+        "My refund has not been processed yet",
+        "When will I get my money back?",
+        "I cancelled my order, please refund",
+        "The product was damaged, I want a full refund",
+        "Paise wapas chahiye",
+        "Refund nahi aaya abhi tak",
+        "Refund status kya hai?",
+        "Money return karo please",
+        "Cancel kiya tha order, refund kab milega?"
+      ]
+    },
+    {
+      "label": "product_query",
+      "examples": [
+        "What are the features of this mutual fund?",
+        "Tell me about SIP plans available",
+        "What is the minimum investment amount?",
+        "How does the Groww app work?",
+        "What is the difference between direct and regular mutual funds?",
+        "Is my investment safe?",
+        "What are the charges for investing in stocks?",
+        "How do I withdraw from my mutual fund?",
+        "KYC kaise complete karein?",
+        "Ye mutual fund kitna return deta hai?",
+        "SIP kya hota hai?",
+        "Stocks mein invest karne ke liye kya karna padega?",
+        "Portfolio kaise banayein?",
+        "Groww pe gold kaise khareedein?",
+        "Fixed deposit available hai kya?"
+      ]
+    },
+    {
+      "label": "account_issue",
+      "examples": [
+        "I cannot log into my account",
+        "My account is locked",
+        "I forgot my password",
+        "I need to reset my PIN",
+        "My profile is not updating",
+        "How do I change my registered mobile number?",
+        "Account band ho gaya hai",
+        "Login nahi ho raha hai",
+        "Password bhool gaya hoon",
+        "Mobile number change karna hai",
+        "My account has been suspended",
+        "Two-factor authentication is not working",
+        "Can I change my email address?",
+        "Bank account link nahi ho raha",
+        "Account verification pending hai"
+      ]
+    },
+    {
+      "label": "payment_failure",
+      "examples": [
+        "My payment failed",
+        "Transaction was not successful",
+        "Money was deducted but order was not placed",
+        "Payment is stuck in pending",
+        "I was charged twice",
+        "UPI payment failed",
+        "Net banking transaction failed",
+        "Paise kat gaye lekin order nahi hua",
+        "Double charge ho gaya",
+        "Payment fail ho gaya baar baar",
+        "Debit hua account se lekin confirm nahi hua",
+        "Payment gateway error aa raha hai",
+        "Transaction declined ho raha hai",
+        "Bank se paisa gaya nahi hua order confirm",
+        "Auto-debit SIP fail ho gayi"
+      ]
+    },
+    {
+      "label": "general_complaint",
+      "examples": [
+        "I am very unhappy with the service",
+        "This is unacceptable",
+        "Your customer support is terrible",
+        "I have been waiting for too long",
+        "Nobody is helping me",
+        "This app is very buggy",
+        "I am frustrated with Groww",
+        "Bahut bura experience hai",
+        "Koi help nahi kar raha",
+        "App crash hoti rehti hai",
+        "Bahut time se wait kar raha hoon",
+        "Groww ki service bahut kharab hai",
+        "Complaint darj karni hai",
+        "Main bahut pareshan hoon",
+        "Yeh bilkul galat hai"
+      ]
+    }
+  ]
+}

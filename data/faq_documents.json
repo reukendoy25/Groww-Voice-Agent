@@ -1,0 +1,184 @@
+{
+    "faqs": [
+        {
+            "id": "faq_001",
+            "category": "SIP",
+            "question": "What is a SIP and how does it work on Groww?",
+            "answer": "A Systematic Investment Plan (SIP) allows you to invest a fixed amount regularly — daily, weekly, or monthly — in a mutual fund. On Groww, you set the amount, frequency, and start date. The amount is auto-debited from your bank account on the selected date and invested at the prevailing NAV. SIPs benefit from rupee cost averaging, meaning you buy more units when prices are low and fewer when high."
+        },
+        {
+            "id": "faq_002",
+            "category": "SIP",
+            "question": "What is the minimum SIP amount on Groww?",
+            "answer": "The minimum SIP amount on Groww is ₹100 per month for most mutual funds. Some funds may have a higher minimum. There is no upper limit to how much you can invest via SIP."
+        },
+        {
+            "id": "faq_003",
+            "category": "SIP",
+            "question": "How do I pause or stop my SIP on Groww?",
+            "answer": "To pause or stop a SIP on Groww: Open the Groww app → Go to 'Mutual Funds' → Select 'My Investments' → Tap on the SIP you want to manage → Choose 'Pause SIP' or 'Stop SIP'. You can pause a SIP for up to 3 months. Pausing prevents the next auto-debit without cancelling the SIP permanently."
+        },
+        {
+            "id": "faq_004",
+            "category": "SIP",
+            "question": "What happens if my SIP payment fails?",
+            "answer": "If your SIP auto-debit fails due to insufficient balance or a bank issue, your bank may charge a penalty (usually ₹300–₹500). Groww will not invest for that particular installment. Multiple consecutive SIP failures (typically 3) may result in automatic cancellation of the SIP. You can restart it anytime."
+        },
+        {
+            "id": "faq_005",
+            "category": "Mutual Funds",
+            "question": "What is the difference between direct and regular mutual funds?",
+            "answer": "Direct mutual funds are purchased directly from the fund house without any intermediary. They have lower expense ratios because there is no distributor commission. Regular funds are sold through brokers/distributors who receive a commission, making the expense ratio slightly higher. On Groww, you invest in Direct mutual funds, which means higher returns over the long term compared to regular plans."
+        },
+        {
+            "id": "faq_006",
+            "category": "Mutual Funds",
+            "question": "What is NAV in mutual funds?",
+            "answer": "NAV stands for Net Asset Value. It is the per-unit price of a mutual fund scheme. NAV is calculated at the end of each business day by dividing the total market value of the fund's assets (minus liabilities) by the total number of units outstanding. When you invest, you are allotted units based on the applicable NAV."
+        },
+        {
+            "id": "faq_007",
+            "category": "Mutual Funds",
+            "question": "How do I withdraw money from my mutual fund on Groww?",
+            "answer": "To redeem your mutual fund investment on Groww: Open the app → Go to 'My Investments' → Select the fund → Tap 'Withdraw' → Enter the amount or number of units → Confirm with your MPIN. The redemption amount is credited to your registered bank account within 1–3 working days (T+1 for liquid funds, T+3 for equity funds)."
+        },
+        {
+            "id": "faq_008",
+            "category": "Mutual Funds",
+            "question": "Is there an exit load for withdrawing from mutual funds?",
+            "answer": "Exit load depends on the mutual fund scheme. Most equity funds charge 1% exit load if redeemed within 1 year of investment. Liquid funds and some debt funds have no exit load after a few days. You can check the exit load for any fund on Groww's fund details page before investing."
+        },
+        {
+            "id": "faq_009",
+            "category": "Mutual Funds",
+            "question": "What types of mutual funds are available on Groww?",
+            "answer": "Groww offers all major mutual fund categories: Equity Funds (Large Cap, Mid Cap, Small Cap, Flexi Cap, ELSS), Debt Funds (Liquid, Short Duration, Corporate Bond, Gilt), Hybrid Funds (Balanced Advantage, Aggressive Hybrid), and Index Funds/ETFs. Over 5,000+ mutual fund schemes from 40+ fund houses are available."
+        },
+        {
+            "id": "faq_010",
+            "category": "KYC",
+            "question": "How do I complete KYC on Groww?",
+            "answer": "To complete KYC on Groww: Download the app and sign up → Go to 'Complete KYC' → Enter your PAN number → Upload a photo of your Aadhaar card (front and back) → Take a selfie for facial verification → Enter your personal and bank details → Sign digitally. If your KYC is already done with SEBI/CAMS/KRA, Groww will automatically fetch your details. The process takes 2–5 minutes."
+        },
+        {
+            "id": "faq_011",
+            "category": "KYC",
+            "question": "My KYC is showing as pending. What should I do?",
+            "answer": "KYC verification typically takes 1–2 business days. If it has been more than 2 days and your KYC is still pending: Check if all documents were uploaded correctly → Ensure your PAN and Aadhaar details match → Check the email registered with Groww for any requests to resubmit documents. If the issue persists, contact Groww support at support@groww.in or call 1800-2700-800."
+        },
+        {
+            "id": "faq_012",
+            "category": "KYC",
+            "question": "Can I invest on Groww without completing KYC?",
+            "answer": "No. KYC (Know Your Customer) is mandatory as per SEBI regulations for investing in mutual funds or stocks in India. You must complete KYC verification before making your first investment. However, you can browse mutual funds and explore the app without KYC."
+        },
+        {
+            "id": "faq_013",
+            "category": "Stocks",
+            "question": "How do I buy stocks on Groww?",
+            "answer": "To buy stocks on Groww: Complete KYC and open a Demat + Trading account → Add funds to your Groww account → Search for the stock you want → Tap 'Buy' → Choose between Market Order (buy at current price) or Limit Order (set your target price) → Confirm the order. Demat accounts on Groww are provided by Groww Broking Ltd."
+        },
+        {
+            "id": "faq_014",
+            "category": "Stocks",
+            "question": "What are the brokerage charges on Groww for stocks?",
+            "answer": "Groww charges zero brokerage for delivery-based equity trades (buying and holding stocks). For intraday trades, the charge is ₹20 per order or 0.05%, whichever is lower. There are additional statutory charges such as STT (Securities Transaction Tax), exchange transaction charges, GST, and SEBI turnover fees."
+        },
+        {
+            "id": "faq_015",
+            "category": "Payments",
+            "question": "What payment methods are accepted on Groww?",
+            "answer": "Groww accepts: UPI (recommended — instant and free), Net Banking, NEFT/RTGS, Debit Cards, and Mandate-based auto-debit for SIPs. Credit card payments are not supported for investment. UPI is the fastest method with same-day investment."
+        },
+        {
+            "id": "faq_016",
+            "category": "Payments",
+            "question": "Money was deducted from my account but the investment was not made. What do I do?",
+            "answer": "This can happen due to a technical glitch during payment processing. In most cases, the money is automatically reversed to your bank account within 5–7 business days. If the amount is not reversed: Check your Groww transaction history → Contact Groww support with your transaction ID → The support team will investigate with the payment gateway. Do not reinvest the same amount until the original transaction is resolved."
+        },
+        {
+            "id": "faq_017",
+            "category": "Payments",
+            "question": "How long does it take for funds to reflect in my Groww account after bank transfer?",
+            "answer": "UPI payments reflect instantly. Net Banking transfers take up to 4 business hours. NEFT transfers take 30 minutes to 2 hours during banking hours. RTGS transfers take 30 minutes. Funds added before 2:30 PM on business days are typically invested on the same day."
+        },
+        {
+            "id": "faq_018",
+            "category": "Account",
+            "question": "How do I reset my Groww MPIN?",
+            "answer": "To reset your MPIN: Open the Groww app → On the MPIN screen, tap 'Forgot MPIN' → Verify with your registered mobile number via OTP → Set a new 4 or 6-digit MPIN. If you are locked out, you may also reset via email verification by contacting support."
+        },
+        {
+            "id": "faq_019",
+            "category": "Account",
+            "question": "How do I change my bank account linked to Groww?",
+            "answer": "To change your linked bank account: Go to Groww app → Profile → Bank Account Details → Add New Bank Account → Enter new bank details and verify via penny drop (₹1 test transfer) → Set as primary account. Your old bank account should be removed manually once the new one is verified. Redemption proceeds will go to the currently set primary bank account."
+        },
+        {
+            "id": "faq_020",
+            "category": "Account",
+            "question": "Can I have multiple accounts on Groww?",
+            "answer": "No. Each individual can have only one Groww account, as per SEBI and KYC regulations. Your account is linked to your PAN card which is unique. Creating multiple accounts is not permitted and may result in account suspension."
+        },
+        {
+            "id": "faq_021",
+            "category": "Gold",
+            "question": "Can I buy digital gold on Groww?",
+            "answer": "Yes, Groww allows you to buy 24K digital gold starting from ₹1. The gold is stored in secure vaults by SafeGold on your behalf. You can sell your digital gold anytime and the money is credited to your bank account. You can also request physical delivery of gold coins subject to minimum quantity."
+        },
+        {
+            "id": "faq_022",
+            "category": "Tax",
+            "question": "How are mutual fund gains taxed in India?",
+            "answer": "For equity mutual funds: Short-term capital gains (held less than 1 year) are taxed at 20%. Long-term capital gains (held more than 1 year) above ₹1.25 lakh are taxed at 12.5% (no indexation). For debt mutual funds (purchased after April 2023): All gains are added to your income and taxed at your income slab rate. ELSS funds have a 3-year lock-in and qualify for ₹1.5 lakh deduction under Section 80C."
+        },
+        {
+            "id": "faq_023",
+            "category": "Tax",
+            "question": "Does Groww provide tax reports?",
+            "answer": "Yes, Groww provides a detailed Capital Gains Statement that you can download from the app. Go to Profile → Statements → Capital Gains Report → Select financial year → Download PDF or Excel. This report shows all your realized gains and losses for the year, which you need for filing your Income Tax Return."
+        },
+        {
+            "id": "faq_024",
+            "category": "Safety",
+            "question": "Is my money safe on Groww?",
+            "answer": "Your investments on Groww are safe. Mutual fund assets are held by SEBI-registered registrars (CAMS/KFintech) and are not part of Groww's balance sheet. Stock investments are held in your Demat account with CDSL, a government-backed depository. Groww itself is regulated by SEBI and AMFI. Bank-grade 256-bit SSL encryption protects all transactions."
+        },
+        {
+            "id": "faq_025",
+            "category": "Safety",
+            "question": "What should I do if I notice unauthorized transactions on Groww?",
+            "answer": "Immediately: Change your Groww password and MPIN → Enable two-factor authentication → Contact Groww support at support@groww.in or 1800-2700-800 → Report to cyber crime portal (cybercrime.gov.in). Do not share your OTP, MPIN, or password with anyone, including people claiming to be Groww representatives."
+        },
+        {
+            "id": "faq_026",
+            "category": "Fixed Deposit",
+            "question": "Are Fixed Deposits available on Groww?",
+            "answer": "Yes, Groww offers Fixed Deposits (FDs) from partner banks and NBFCs, offering interest rates typically ranging from 6% to 9% per annum. You can invest starting from ₹1,000 with tenures from 7 days to 10 years. FDs on Groww are available on the 'FD' tab in the app."
+        },
+        {
+            "id": "faq_027",
+            "category": "Referral",
+            "question": "How does the Groww referral program work?",
+            "answer": "You can refer friends to Groww using your unique referral code or link. When your friend signs up and completes KYC using your referral code, both you and your friend may receive rewards such as cashback, mutual fund units, or other incentives as per the current referral offer. Check the 'Refer & Earn' section in the Groww app for the latest reward structure."
+        },
+        {
+            "id": "faq_028",
+            "category": "App",
+            "question": "The Groww app is not working or keeps crashing. What should I do?",
+            "answer": "Try these steps: Update Groww to the latest version from Play Store/App Store → Clear the app cache (Settings → Apps → Groww → Clear Cache) → Restart your phone → Uninstall and reinstall the app if the issue persists. If the problem continues, contact Groww support with your device model and Android/iOS version."
+        },
+        {
+            "id": "faq_029",
+            "category": "Nominee",
+            "question": "How do I add or change a nominee on Groww?",
+            "answer": "To add a nominee: Go to Groww app → Profile → Nominees → Add Nominee → Enter the nominee's name, relationship, date of birth, and percentage allocation → Save. Adding a nominee is important to ensure your investments are transferred to your chosen person in case of your unfortunate demise. You can add up to 3 nominees."
+        },
+        {
+            "id": "faq_030",
+            "category": "Rewards",
+            "question": "What are Groww Coins and how do I use them?",
+            "answer": "Groww Coins are reward points you earn through various activities on the app such as completing KYC, making your first investment, and participating in special campaigns. Coins can be redeemed to get cashback on investment returns or for exclusive vouchers. Check the 'Rewards' section in the app to see your coin balance and available redemption options."
+        }
+    ]
+}
